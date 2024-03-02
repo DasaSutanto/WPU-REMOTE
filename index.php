@@ -9,5 +9,10 @@
     <h1>SAMA AJA</h1>
     <h2>harus advance</h2>
     <h4>Lebih dari itu</h4>
+
+    <li>Satu</li>
+    <li>dua</li>
+    <li>tiga</li>
+
 </body>
 </html>
